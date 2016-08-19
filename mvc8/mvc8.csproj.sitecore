@@ -1,0 +1,11 @@
+﻿<Project>
+  <PropertyGroup>
+    <Site Server="MVC8" UserName="sitecore\admin" IsRemoteSitecore="True" />
+  </PropertyGroup>
+  <File Include="Views\Layouts\Sample.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{0CC262C7-417F-495F-94BE-F5130CB67BAA}</Item>
+  </File>
+  <File Include="/Views/Layouts/Sample.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{0CC262C7-417F-495F-94BE-F5130CB67BAA}</Item>
+  </File>
+</Project>
